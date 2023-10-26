@@ -1,0 +1,13 @@
+.homeContainer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  background-color:white;
+  padding: 15px;
+}
